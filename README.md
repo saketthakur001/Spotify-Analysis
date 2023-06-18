@@ -23,8 +23,3 @@ To use this project, follow these steps:
 2. Download your Spotify streaming history from https://www.spotify.com/account/privacy/
 3. Extract the JSON files from the downloaded zip file and place them in the same folder as the project files.
 4. Open the spotify_data_visulizatoin.ipynb notebook and run the cells to see the results.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
