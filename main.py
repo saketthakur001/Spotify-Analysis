@@ -34,10 +34,9 @@ df['times_listened'] = df.spotify_track_uri.apply(lambda track: track_count[trac
 # dataframe that contains unique spotify_track_uri all the dublicates are removed
 top_listened_by_year = df.drop_duplicates(subset='spotify_track_uri')
 
-
 # import cred
-client_ID='4e1c1626b9e04c0fba6d8f14d31ab3e6'
-client_SECRET='61dd39d3b27b40fa8753c2bb7932e88c'   
+client_ID= clientID
+client_SECRET= clientSecret   
 redirect_url='http://127.0.0.1:9090'
 scope = "playlist-modify-public"
 username = 'rt47etgc6xpwhhhb8575rth83'
