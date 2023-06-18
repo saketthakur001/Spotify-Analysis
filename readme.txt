@@ -1,5 +1,3 @@
-I'll try to create that. Here is a possible readme file for this project based on the current web page context:
-
 # Spotify-Analysis
 
 This project is a data analysis and visualization of Spotify streaming history. It uses Python and Jupyter notebooks to explore and display various aspects of personal listening habits, such as most played artists, songs, hours played per day, etc.
